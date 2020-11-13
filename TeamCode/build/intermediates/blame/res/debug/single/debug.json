@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/kushbavaria/Documents/Robotics/road-runner-quickstart-master/TeamCode/build/intermediates/res/merged/debug/xml_teamwebcamcalibrations.xml.flat",
+        "source": "/Users/kushbavaria/Documents/Robotics/road-runner-quickstart-master/TeamCode/src/main/res/xml/teamwebcamcalibrations.xml"
+    },
+    {
+        "merged": "/Users/kushbavaria/Documents/Robotics/road-runner-quickstart-master/TeamCode/build/intermediates/res/merged/debug/raw_readme.md.flat",
+        "source": "/Users/kushbavaria/Documents/Robotics/road-runner-quickstart-master/TeamCode/src/main/res/raw/readme.md"
+    }
+]
