@@ -1,5 +1,5 @@
 # Static Void 2020-2021
 
 Kush Bavaria
-
-Email Kush.bavaria@gmail.com for questions
+Please note that code is written in Kotlin and Java.
+EmailKush.bavaria@gmail.com for questions
